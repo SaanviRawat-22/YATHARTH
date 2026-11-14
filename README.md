@@ -1,4 +1,4 @@
-🌌 YATHARTH
+🌌 *YATHARTH*
 Because Not Everything That Sounds Right Is True.
 Beyond Answers, Towards Truth. 🚀
 
