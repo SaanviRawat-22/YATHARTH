@@ -1,10 +1,11 @@
-🌌 *YATHARTH*
+🌌 ***YATHARTH***
+
+
 Because Not Everything That Sounds Right Is True.
 Beyond Answers, Towards Truth. 🚀
+**Information evolves, but truth endures.**
 
-Information evolves, but truth endures.
-
-✨ About
+✨ **About**
 In a world where AI is becoming part of our everyday lives, one important question remains:
 
 Can we really trust everything AI tells us?
@@ -13,13 +14,15 @@ YATHARTH is an AI-powered temporal verification layer. It detects outdated claim
 
 Prices change, APIs get deprecated, laws are updated and leaders move on, yet AI keeps stating old information as fact with full confidence. YATHARTH exists to catch that.
 
-🌟 What It Does
+🌟 **What It Does**
 YATHARTH works in three stages:
 
 Detect: finds the time-sensitive claims: prices, versions, laws and leaders.
 Validate: re-checks every flagged claim against live, trusted web sources.
 Measure and repair: scores freshness, explains what changed, and rewrites the stale answer.
-Features
+
+
+**Features**
 
 🎨 Color-coded answer: green, amber and red show freshness at a glance.
 📊 Freshness score: 0-100 per claim and overall.
@@ -30,7 +33,9 @@ Features
 🔁 Recheck: re-verifies claims on demand or on a schedule.
 ✅ Repaired answer: stale claims fixed with citations.
 🧩 Browser extension: verify output from ChatGPT, Claude, Gemini or any AI app in one click.
-💡 Why YATHARTH?
+
+
+💡 **Why YATHARTH?**
 AI can make information easier to access, but reliable information matters just as much as quick answers. YATHARTH is built around the idea that technology should not only provide answers. It should also help us examine where those answers come from.
 
 It helps everyone who relies on AI:
@@ -41,7 +46,7 @@ It helps everyone who relies on AI:
 🙋 Everyday users who might trust confident errors
 What makes it different: it gives a per-claim freshness score, works with any AI, explains why data changed, rewrites the stale answer, and cites its sources.
 
-🛠️ Tools Used
+🛠️ **Tools Used**
 Layer	Technology	Role in YATHARTH
 🔎 Live search	Tavily	Search and Extract APIs fetch current, dated evidence
 🚦 Model gateway	Bifrost by Maxim AI	Routes all LLM calls with fallbacks and cost tracking
@@ -55,7 +60,9 @@ Bifrost handles every LLM call in the pipeline: extracting claims, flagging vola
 FastAPI holds the claim pipeline, the freshness scoring engine, and the REST API. A Redis cache keeps repeated searches fast and cheap. The web app, extension and API all share this one backend.
 Chrome extension, MCP server and OpenAPI let users and other tools plug YATHARTH into any AI chat.
 Lovable + React power the interface: Lovable for design and prototyping, React for the dashboard.
-👥 Team
+
+
+👥** Team**
 Team Member	Contribution
 🎨 Saanvi Rawat	Creative & Frontend Designing, Demo Video: shaping the visual experience and user interface, and creating the project demo video.
 ⚙️ Sambhav Agarwal	Backend, API & Deployment: building the backend foundation, APIs, and functionality, and deploying the project.
